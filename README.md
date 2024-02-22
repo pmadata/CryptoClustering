@@ -10,9 +10,11 @@ Determining Optimal K: It determines the optimal number of clusters (k) using th
 Clustering Cryptocurrencies: It clusters cryptocurrencies using the K-means algorithm with the optimal value of k.
 
 Files
-main.py: Main script to execute the analysis.
+Crypto_Clustering.ipynb: Main script to execute the analysis.
 crypto_market_data.csv: Input data containing cryptocurrency market information.
+jpgs: screeshot of plotted outcomes from the analysis
 README.md: This file providing an overview of the project.
+
 Results
 After running the analysis, you will obtain insights into the cryptocurrency market, including the optimal number of clusters and the clustering results.
 
