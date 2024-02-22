@@ -31,3 +31,10 @@ Analysis:
   * **Question:** After visually analysing the cluster analysis results, what is the impact of using fewer features to cluster the data using K-Means?
 
   * **Answer:** There was no impact
+
+ Comparison of Elbow curve from Kmean and PCA methods
+
+![image](https://github.com/pmadata/CryptoClustering/assets/143486132/73d4a7b2-9971-42da-89a0-02ded721c6ae)
+
+Composite of Clusters between methods 
+![image](https://github.com/pmadata/CryptoClustering/assets/143486132/787a144a-fca3-47bc-ad90-d6da54459e81)
