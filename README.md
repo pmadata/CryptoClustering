@@ -16,5 +16,18 @@ README.md: This file providing an overview of the project.
 Results
 After running the analysis, you will obtain insights into the cryptocurrency market, including the optimal number of clusters and the clustering results.
 
-Conclusion
-This project demonstrates how to analyze cryptocurrency market data using Python. By applying clustering techniques, we can identify patterns and group similar cryptocurrencies together based on their price change percentages over different time periods.
+Analysis:
+#### Answer the following questions: 
+
+* **Question:** What is the best value for `k` when using the PCA data?
+
+  * **Answer:**4
+
+
+* **Question:** Does it differ from the best k value found using the original data?
+
+  * **Answer:** no
+  * 
+  * **Question:** After visually analysing the cluster analysis results, what is the impact of using fewer features to cluster the data using K-Means?
+
+  * **Answer:** There was no impact
